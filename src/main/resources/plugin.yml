@@ -1,0 +1,6 @@
+name: InstantDeath
+version: 1.0
+main: br.com.nerisoftware.www.InstantDeath
+api-version: 1.21
+authors: [poledar]
+description: Instant death and respawn plugin.
